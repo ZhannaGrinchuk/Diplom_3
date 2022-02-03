@@ -1,4 +1,4 @@
-package com.model;
+package ru.yandexpraktikum.stellaburgers.model;
 
 public class Tokens {
     private static String accessToken;

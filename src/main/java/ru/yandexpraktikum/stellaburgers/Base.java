@@ -1,4 +1,4 @@
-package com;
+package ru.yandexpraktikum.stellaburgers;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.specification.RequestSpecification;
 

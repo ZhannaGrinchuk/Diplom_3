@@ -1,8 +1,8 @@
-package com;
+package ru.yandexpraktikum.stellaburgers;
 
-import com.model.Tokens;
-import com.model.UserRegisterResponse;
 import org.apache.commons.lang3.RandomStringUtils;
+import ru.yandexpraktikum.stellaburgers.model.Tokens;
+import ru.yandexpraktikum.stellaburgers.model.UserRegisterResponse;
 
 import java.util.HashMap;
 import java.util.Map;

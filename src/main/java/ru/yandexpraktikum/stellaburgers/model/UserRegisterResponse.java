@@ -1,5 +1,4 @@
-package com.model;
-import com.model.User;
+package ru.yandexpraktikum.stellaburgers.model;
 
 public class UserRegisterResponse {
       private boolean success;
